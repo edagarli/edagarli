@@ -1,8 +1,10 @@
 **About Me**
 
 - name: lizhi
-- Age : 26
+- Age : 27
 - company: alibaba
+- Position: Technical Expert
+
 ___
 **Stats**
 
